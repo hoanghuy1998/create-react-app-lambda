@@ -1,0 +1,163 @@
+.bg-img1 {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.bor19 {
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+}
+.size-124 {
+  width: 100%;
+  min-height: 150px;
+}
+.plh3::-webkit-input-placeholder {
+  color: #555;
+}
+.plh3:-moz-placeholder {
+  color: #555;
+}
+.plh3::-moz-placeholder {
+  color: #555;
+}
+.plh3:-ms-input-placeholder {
+  color: #555;
+}
+.cl6 {
+  color: #888;
+}
+.mtext-112 {
+  font-size: 22px;
+  line-height: 1.333333;
+}
+.stext-117 {
+  font-size: 15px;
+  line-height: 1.666667;
+}
+
+.hov-cl1:hover {
+  color: #717fe0;
+}
+.stext-109 {
+  font-size: 12px;
+  line-height: 1.833333;
+}
+.stext-107 {
+  font-size: 13px;
+  line-height: 1.923;
+}
+.stext-101 {
+  font-size: 15px;
+  line-height: 1.466667;
+  text-transform: uppercase;
+}
+
+.stext-111 {
+  font-size: 13px;
+  line-height: 1.6923;
+}
+.cl12 {
+  color: #ccc;
+}
+.cl2 {
+  color: #333;
+}
+.how-pos5-parent {
+  position: relative;
+}
+.hov-img0 {
+  display: block;
+  overflow: hidden;
+}
+
+.hov-img0 img {
+  width: 100%;
+  -webkit-transition: transform 0.9s ease;
+  -o-transition: transform 0.9s ease;
+  -moz-transition: transform 0.9s ease;
+  transition: transform 0.9s ease;
+}
+
+.hov-img0:hover img {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.ltext-108 {
+  font-size: 26px;
+  line-height: 1.3846;
+}
+.ltext-107 {
+  font-size: 30px;
+  line-height: 1.1;
+}
+.ltext-109 {
+  font-size: 36px;
+  line-height: 1.2;
+}
+
+.text-size {
+  font-size: 16px !important;
+}
+.card {
+  border: none;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  border-radius: 4px;
+}
+
+.dots {
+  height: 4px;
+  width: 4px;
+  margin-bottom: 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.badge {
+  padding: 7px;
+  padding-right: 9px;
+  padding-left: 16px;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+}
+
+.user-img {
+  margin-top: 4px;
+}
+
+.check-icon {
+  font-size: 17px;
+  color: #c3bfbf;
+  top: 1px;
+  position: relative;
+  margin-left: 3px;
+}
+
+.form-check-input {
+  margin-top: 6px;
+  margin-left: -24px !important;
+  cursor: pointer;
+}
+
+.form-check-input:focus {
+  box-shadow: none;
+}
+
+.icons i {
+  margin-left: 8px;
+}
+
+.reply {
+  margin-left: 12px;
+}
+
+.reply small {
+  color: #b7b4b4;
+}
+
+.reply small:hover {
+  color: green;
+  cursor: pointer;
+}
